@@ -7,13 +7,18 @@ public:
         {
              mp[i]++;
         }
-        vector<pair<char,int>> v(mp.begin(),mp.end());
-        sort(v.begin(),v.end(),[](pair<char,int> a , pair<char,int> b){
-            return a.second > b.second;
-        });
-        for(auto it : v)
+        int n=s.size();
+        vector<vector<char>> a(n+1);
+        for(auto it : mp)
         {
-            ans.append(it.second,it.first);
+            a[it.second].push_back(it.first);
+        }
+        for(int i= n ;i>0;i--)
+        {
+            for(char c : a[i])
+            {
+                ans.append(i,c);
+            }
         }
         return ans;
     }
