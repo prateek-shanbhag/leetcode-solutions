@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -57,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
