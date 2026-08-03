@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -93,4 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
