@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
