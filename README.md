@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
