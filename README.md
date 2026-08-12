@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0860-lemonade-change](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
