@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Quicksort
