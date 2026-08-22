@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Quicksort
