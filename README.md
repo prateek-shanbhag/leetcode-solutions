@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0877-stone-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
