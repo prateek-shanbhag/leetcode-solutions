@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
 | ------- |
