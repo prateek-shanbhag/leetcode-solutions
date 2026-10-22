@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -233,12 +236,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
 | Problem Name | Difficulty |
