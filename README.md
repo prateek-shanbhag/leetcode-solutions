@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0217-contains-duplicate](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -226,12 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prateek-shanbhag/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-shanbhag/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
